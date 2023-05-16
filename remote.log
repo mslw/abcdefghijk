@@ -1,1 +1,2 @@
 1079e606-f067-4694-ac31-b511e2febcea archive-id=2db45719-2baf-4351-ba22-967b18730ae0 autoenable=true encryption=none externaltype=ora name=ria-store-storage type=external url=ria+ssh://juseless.inm7.de/home/mszczepanik/ria-may16-01 timestamp=1684252056.451441988s
+eb8ed600-c53b-46d8-a669-a45e12777e10 autoenable=true location=ssh://juseless.inm7.de/home/mszczepanik/ria-may16-01/2db/45719-2baf-4351-ba22-967b18730ae0 name=ria-store-special type=git timestamp=1684253723.928991108s
